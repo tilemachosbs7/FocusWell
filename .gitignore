@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyw
+
+# Test/coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SQLite DB
+focuswell.db
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime configs
+settings.json
